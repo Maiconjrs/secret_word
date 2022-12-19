@@ -11,4 +11,3 @@ it is a word game, where the user has three chances to hit the correct word, if 
 ## Technologies
 
 + React 18.2.0
-+ ECMAScript 9
