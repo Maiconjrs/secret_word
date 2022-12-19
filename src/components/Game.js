@@ -65,7 +65,6 @@ const Game = ({
         ))}
       </div>
     </div>
-
   )
 }
 
